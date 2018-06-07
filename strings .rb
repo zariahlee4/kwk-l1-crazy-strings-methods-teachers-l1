@@ -8,4 +8,9 @@ puts "****this is another string****"
 
 
 
-email:
+email = "sneakiana@gmail.com"
+address = "123 nowhere street denver, co 80134"
+first_name = "sneakiana"
+
+puts first_name
+puts
