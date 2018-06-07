@@ -3,5 +3,5 @@ print "1234567"
 print "**** this is another string ****"
 
 puts "here is a string"
-"1234567"
-"****"
+puts "1234567"
+puts "****this is another string****"
