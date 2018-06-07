@@ -13,4 +13,4 @@ address = "123 nowhere street denver, co 80134"
 first_name = "sneakiana"
 
 puts first_name
-puts
+puts address
