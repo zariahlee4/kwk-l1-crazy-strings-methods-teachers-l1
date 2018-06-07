@@ -1,6 +1,9 @@
-email = "rachel@turing.io"
-address = "123 Nowhere Street, Denver, CO 80202"
-first_name = "Rachel"
+email = "rillertiller@gmail.com"
+address = "123 Nowhere Street, Denver, CO 80132"
+first_name = ""
 
 puts "#{first_name} lives at #{address}. Her email address is #{email}."
 
+puts "here is a string"
+puts "1234567"
+puts "**** this is another string ****"
