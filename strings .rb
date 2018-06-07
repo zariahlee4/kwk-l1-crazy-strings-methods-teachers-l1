@@ -4,3 +4,4 @@ print "**** this is another string ****"
 
 puts "here is a string"
 "1234567"
+"****"
